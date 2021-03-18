@@ -9,16 +9,16 @@
     @apply outline-none ring; 
 }
 
-.btn-indigo {
-    @apply bg-indigo-500 text-white;
+.btn-brand-blue {
+    @apply bg-brand-blue text-white;
 }
 
-.btn-indigo:hover {
-    @apply bg-indigo-400;
+.btn-brand-blue:hover {
+    @apply bg-brand-blue;
 }
 
-.btn-indigo:active {
-    @apply bg-indigo-600;
+.btn-brand-blue:active {
+    @apply bg-brand-blue;
 }
 
 .btn-gray {
